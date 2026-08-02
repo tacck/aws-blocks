@@ -1,5 +1,11 @@
 # @aws-blocks/create-blocks-app
 
+## 0.1.18
+
+### Patch Changes
+
+- 75f5446: Add optional `fallback` parameter to `AuthenticatedContent` for rendering alternative content when the user is not authenticated.
+
 ## 0.1.17
 
 ### Patch Changes

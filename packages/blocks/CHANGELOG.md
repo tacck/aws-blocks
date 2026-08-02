@@ -1,5 +1,20 @@
 # @aws-blocks/blocks
 
+## 0.2.6
+
+### Patch Changes
+
+- 75f5446: Add optional `fallback` parameter to `AuthenticatedContent` for rendering alternative content when the user is not authenticated.
+- feb5be4: Re-export the `auth.admin` types (`AdminOptions`, `AdminUser`, `AdminCreateInit`, `GroupAdmin`, `LifecycleAdmin`, `AdminSurface`, `AdminGetterOf`, `AdminDisabled`) from the umbrella package so consumers using `@aws-blocks/blocks` can name the values `auth.admin` returns and annotate `admin` options.
+- Updated dependencies [75f5446]
+- Updated dependencies [feb5be4]
+- Updated dependencies [feb5be4]
+- Updated dependencies [ac0966a]
+  - @aws-blocks/auth-common@0.1.4
+  - @aws-blocks/bb-auth-cognito@0.1.6
+  - @aws-blocks/bb-agent@0.3.3
+  - @aws-blocks/core@0.1.17
+
 ## 0.2.5
 
 ### Patch Changes

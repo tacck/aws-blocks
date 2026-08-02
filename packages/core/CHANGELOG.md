@@ -1,5 +1,13 @@
 # @aws-blocks/core
 
+## 0.1.17
+
+### Patch Changes
+
+- ac0966a: docs: correct default local dev port to :3000/aws-blocks/api
+- Updated dependencies [0284e5b]
+  - @aws-blocks/hosting@0.1.8
+
 ## 0.1.16
 
 ### Patch Changes

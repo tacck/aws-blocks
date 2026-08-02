@@ -1,5 +1,13 @@
 # @aws-blocks/auth-common
 
+## 0.1.4
+
+### Patch Changes
+
+- 75f5446: Add optional `fallback` parameter to `AuthenticatedContent` for rendering alternative content when the user is not authenticated.
+- Updated dependencies [ac0966a]
+  - @aws-blocks/core@0.1.17
+
 ## 0.1.3
 
 ### Patch Changes
